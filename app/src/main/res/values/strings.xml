@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Alexandria</string>
+    <string-array name="navbar_items_array">
+        <item>"        Your Books"</item>
+        <item>"        Friends"</item>
+        <item>"        Inbox"</item>
+    </string-array>
 </resources>
